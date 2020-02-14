@@ -1,0 +1,17 @@
+div {
+	width: 1024px; 
+    border-top: 10px solid red; 
+    margin:0 auto; 
+}
+
+
+p{
+	margin:0 auto;	
+	width: 1024px;	
+	font-size: x-large;
+}
+
+h1 {
+	text-align: center;
+	width: 1024px;
+}
